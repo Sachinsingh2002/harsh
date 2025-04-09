@@ -1,6 +1,9 @@
 import { TextGenerateEffect } from "../ui/text-generate-effect";
 
-const words = `Oxygen gets you high. In a catastrophic emergency, we're taking giant, panicked breaths. Suddenly you become euphoric, docile. You accept your fate. It's all right here. Emergency water landing, six hundred miles an hour. Blank faces, calm as Hindu cows
+const words = `I am a dedicated and detail-oriented Computer Science undergraduate at Galgotias University, passionate about solving real-world problems through technology. 
+With strong foundations in Java, Python, SQL, and data structures, I’ve worked on multiple hands-on projects involving machine learning, Android development, and IoT. I bring a dynamic and adaptable mindset, coupled with excellent organizational and time-management skills. 
+My collaborative spirit has led me to participate in national-level hackathons and internships, enhancing my technical expertise and problem-solving abilities. 
+I am always eager to learn emerging technologies and take on new challenges that drive innovation and impact.
 `;
 
 export default function About() {
